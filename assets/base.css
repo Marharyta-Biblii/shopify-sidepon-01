@@ -1,22 +1,22 @@
 /* Custome fonts */
 
 @font-face {
-  font font-family: 'Nunito Light';
+  font-family: 'Nunito Light';
   src: url ('Nunito-Light.ttf') format ("opentype")
 }
 
 @font-face {
-  font font-family: 'Nunito Regular';
+  font-family: 'Nunito Regular';
   src: url ('Nunito-Regular.ttf') format ("opentype")
 }
 
 @font-face {
-  font font-family: 'Nunito Medium';
+  font-family: 'Nunito Medium';
   src: url ('Nunito-Medium.ttf') format ("opentype")
 }
 
 @font-face {
-  font font-family: 'Nunito SemiBold';
+  font-family: 'Nunito SemiBold';
   src: url ('Nunito-SemiBold.ttf') format ("opentype")
 }
 
